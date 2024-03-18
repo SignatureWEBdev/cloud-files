@@ -14,5 +14,6 @@ return array(
         \CloudFiles\Adapter\AwsS3::class,
         \CloudFiles\Adapter\DigitalOcean::class,
         \CloudFiles\Adapter\CloudflareR2::class,
+        \CloudFiles\Adapter\MinIOS3::class,
     ]
 );
