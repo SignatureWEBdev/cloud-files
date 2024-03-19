@@ -3,10 +3,11 @@
 For installation and usage please [read the documentation](docs/index.md)
 
 # Fasttrack Settings File
-1. Make sure to fill our the Key and Secret
-2. Select SW CDN as the region
-3. Set up a new bucket in fasttrack server for client
-4. Add name to the Space Name 
+Select Adapter: `adapter_minios3`
+- Make sure to fill our the Key and Secret
+- Select `SW CDN` as the region
+- Set up a new bucket in fasttrack server for client
+- Add name to the Space Name 
 
 ## Contributing
 
