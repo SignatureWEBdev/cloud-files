@@ -2,6 +2,12 @@
 
 For installation and usage please [read the documentation](docs/index.md)
 
+# Fasttrack Settings File
+1. Make sure to fill our the Key and Secret
+2. Select SW CDN as the region
+3. Set up a new bucket in fasttrack server for client
+4. Add name to the Space Name 
+
 ## Contributing
 
 ### Changelog
